@@ -30,8 +30,8 @@ python To_do_list.py
 - The pattern: Load file → List → Work on list → Save to file
 
 ## Example Usage
-'''
+```
 1. [ ] Buy groceries
 2. [✓] Finish Assignment
 3. [ ] Learn Differential equations
-'''
+```
