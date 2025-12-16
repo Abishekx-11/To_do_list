@@ -18,7 +18,7 @@ python To_do_list.py
 - Download or copy code 
 - Save file with name [ To_do_list.py] 
 - Run python To_do_list.py in your Terminal
-- After that, You will be shown options that you may want to perform like add_task, delete_task, show_task and mark task that yo completed
+- After that, You will be shown options that you may want to perform like add_task, delete_task, show_task and mark task that you completed
 - Use as you wish.
 
 ## What I Learned
