@@ -35,3 +35,7 @@ python To_do_list.py
 2. [✓] Finish Assignment
 3. [ ] Learn Differential equations
 ```
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
